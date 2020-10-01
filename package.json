@@ -1,0 +1,29 @@
+{
+    "name": "recoiljs-snippets",
+    "displayName": "recoiljs-snippets",
+    "description": "recoiljs vs-code snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    },
+    "publisher": "recoiljs-snippets",
+    "bugs": {
+        "url": "https://github.com/JohanZasada/recoiljs-snippets/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JohanZasada/recoiljs-snippets.git"
+    },
+    "homepage": "https://github.com/JohanZasada/recoiljs-snippets"
+}

@@ -1,0 +1,79 @@
+{
+    "recoiljs atom": {
+        "prefix": "rclatom",
+        "body": [
+            "const ${1:myNewAtom} = atom({",
+            "  key: '${1:myNewAtom}',",
+            "  default: ${2:value},",
+            "});$0"
+        ],
+        "description": "atom"
+    },
+    "recoiljs selector": {
+        "prefix": "rclselector",
+        "body": [
+            "const ${1:myNewSelector} = selector({",
+            "  key: '${1:myNewSelector}',",
+            "  get: ({get}) => get(${2:myAtom}),",
+            "  set: ({set}, newValue) => set(${2:myAtom}, newValue),",
+            "});$0"
+        ],
+        "description": "selector"
+    },
+    "recoiljs state": {
+        "prefix": "rclstate",
+        "body": [
+            "const [${1:state}, set${2:State}] = useRecoilState(${3:myAtomOrSelector});$0"
+        ],
+        "description": "state"
+    },
+    "recoiljs state loadableloadable": {
+        "prefix": "rclstateloadable",
+        "body": [
+            "const [${1:state}, set${2:State}] = useRecoilStateLoadable(${3:myAtomOrSelector});$0"
+        ],
+        "description": "state loadable"
+    },
+    "recoiljs value": {
+        "prefix": "rclvalue",
+        "body": [
+            "const ${1:myRecoilValue} = useRecoilValue(${2:myAtomOrSelector});$0"
+        ],
+        "description": "value"
+    },
+    "recoiljs value loadable": {
+        "prefix": "rclvalueloadable",
+        "body": [
+            "const ${1:myRecoilValue} = useRecoilValueLoadable(${2:myAtomOrSelector});$0"
+        ],
+        "description": "value loadable"
+    },
+    "recoiljs set value": {
+        "prefix": "rclsetvalue",
+        "body": [
+            "const ${1:setMyRecoilValue} = useSetRecoilState(${2:myAtomOrSelector});$0"
+        ],
+        "description": "set value"
+    },
+    "recoiljs reset value": {
+        "prefix": "rclresetvalue",
+        "body": [
+            "const ${1:resetMyRecoilValue} = useResetRecoilState(${2:myAtomOrSelector});$0"
+        ],
+        "description": "reset value"
+    },
+    "recoiljs is value": {
+        "prefix": "rclisvalue",
+        "body": [
+            "isRecoilValue(${1:myAtomOrSelector});$0"
+        ],
+        "description": "is value"
+    },
+    "recoiljs import": {
+        "prefix": "rclimport",
+        "body": [
+            "import { ${1:} } from 'recoil';$0"
+        ],
+        "description": "recoiljs import"
+    }
+}
