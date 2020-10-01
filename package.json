@@ -1,13 +1,18 @@
 {
     "name": "recoiljs-snippets",
-    "displayName": "recoiljs-snippets",
-    "description": "recoiljs vs-code snippets",
-    "version": "0.0.3",
+    "displayName": "Recoiljs Snippets",
+    "description": "Recoiljs VS code snippets",
+    "version": "0.0.4",
+    "icon": "icons/logo.png",
     "engines": {
         "vscode": "^1.49.0"
     },
     "categories": [
         "Snippets"
+    ],
+    "keywords": [
+        "recoiljs",
+        "snippets"
     ],
     "contributes": {
         "snippets": [

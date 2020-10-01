@@ -1,9 +1,10 @@
-# Change Log
+## :bookmark: [v0.0.4](https://github.com/JohanZasada/recoiljs-snippets/compare/v0.0.3...v0.0.4) (2020-10-01)
 
-All notable changes to the "recoiljs-snippets" extension will be documented in this file.
+### Notable changes:
+* Add logo
+* Beautify displayName
+* Add snippets prefix to README
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## :bookmark: v0.0.3 (2020-10-01)
 
-## [Unreleased]
-
-- Initial release
+### Initial release :tada:

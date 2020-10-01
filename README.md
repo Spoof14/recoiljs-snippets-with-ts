@@ -1,6 +1,8 @@
-# recoiljs-snippets
+# Recoiljs Snippets
 
-### Snippets list:
+Snippets prefix `rcl`
+
+### Trigger available:
 
 |Trigger||
 |-|-|
