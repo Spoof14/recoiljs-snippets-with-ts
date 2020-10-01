@@ -16,3 +16,5 @@ Snippets prefix `rcl`
 |rclsetvalue|useSetRecoilState()|
 |rclresetvalue|useResetRecoilState()|
 |rclisvalue|isRecoilValue()|
+
+Available for VS Code or [VSCodium](https://open-vsx.org/extension/recoiljs-snippets/recoiljs-snippets)
