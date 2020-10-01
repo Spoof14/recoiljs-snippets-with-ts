@@ -1,3 +1,9 @@
+## :bookmark: [v0.1.1](https://github.com/JohanZasada/recoiljs-snippets/compare/v0.1.1...v0.1.0) (2020-10-02)
+
+### Notable changes:
+* Add license
+* Add Visual Studio Marketplace link
+
 ## :bookmark: [v0.1.0](https://github.com/JohanZasada/recoiljs-snippets/compare/v0.1.0...v0.0.4) (2020-10-01)
 
 ### Notable changes:

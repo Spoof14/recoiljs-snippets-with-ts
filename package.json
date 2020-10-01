@@ -2,7 +2,7 @@
     "name": "recoiljs-snippets",
     "displayName": "Recoiljs Snippets",
     "description": "Recoiljs VS code snippets",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "icon": "icons/logo.png",
     "engines": {
         "vscode": "^1.49.0"
@@ -23,6 +23,7 @@
         ]
     },
     "publisher": "recoiljs-snippets",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/JohanZasada/recoiljs-snippets/issues"
     },

@@ -17,4 +17,4 @@ Snippets prefix `rcl`
 |rclresetvalue|useResetRecoilState()|
 |rclisvalue|isRecoilValue()|
 
-Available for VS Code or [VSCodium](https://open-vsx.org/extension/recoiljs-snippets/recoiljs-snippets)
+Available for [VSCode](https://marketplace.visualstudio.com/items?itemName=recoiljs-snippets.recoiljs-snippets) or [VSCodium](https://open-vsx.org/extension/recoiljs-snippets/recoiljs-snippets)
