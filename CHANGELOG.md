@@ -1,3 +1,8 @@
+## :bookmark: [v0.1.2](https://github.com/JohanZasada/recoiljs-snippets/compare/v0.1.2...v0.1.1) (2020-10-05)
+
+### Notable changes:
+* Add autoCapitaliza for state, setState
+
 ## :bookmark: [v0.1.1](https://github.com/JohanZasada/recoiljs-snippets/compare/v0.1.1...v0.1.0) (2020-10-02)
 
 ### Notable changes:
