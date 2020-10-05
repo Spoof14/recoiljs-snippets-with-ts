@@ -23,14 +23,14 @@
     "recoiljs state": {
         "prefix": "rclstate",
         "body": [
-            "const [${1:state}, set${2:State}] = useRecoilState(${3:myAtomOrSelector});$0"
+            "const [${1:state}, set${1/(.*)/${1:/capitalize}/}] = useRecoilState(${2:myAtomOrSelector});$0"
         ],
         "description": "state"
     },
     "recoiljs state loadableloadable": {
         "prefix": "rclstateloadable",
         "body": [
-            "const [${1:state}, set${2:State}] = useRecoilStateLoadable(${3:myAtomOrSelector});$0"
+            "const [${1:state}, set${1/(.*)/${1:/capitalize}/}] = useRecoilStateLoadable(${2:myAtomOrSelector});$0"
         ],
         "description": "state loadable"
     },
