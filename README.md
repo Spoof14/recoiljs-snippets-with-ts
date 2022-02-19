@@ -1,10 +1,12 @@
 # Recoiljs Snippets
 
-Snippets prefix `rcl`
+Snippets prefix:
+
+Recoil: `rcl` 
 
 ### Trigger available:
 
-|Trigger||
+|Trigger|Recoil|
 |-|-|
 |rclimport|recoil import|
 |rclatom|atom()|
@@ -16,5 +18,6 @@ Snippets prefix `rcl`
 |rclsetvalue|useSetRecoilState()|
 |rclresetvalue|useResetRecoilState()|
 |rclisvalue|isRecoilValue()|
+|rclsyncatom|atom(syncEffect(refine))|
 
-Available for [VSCode](https://marketplace.visualstudio.com/items?itemName=recoiljs-snippets.recoiljs-snippets) or [VSCodium](https://open-vsx.org/extension/recoiljs-snippets/recoiljs-snippets)
+Available for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=recoiljs-snippets.recoiljs-snippets)
