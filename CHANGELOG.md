@@ -1,3 +1,10 @@
+## :bookmark: [v0.2.0](https://github.com/JohanZasada/recoiljs-snippets/compare/v0.2.0...v0.1.2) (2022-02-19)
+
+### Notable changes:
+* Add sync and refine snippets
+* Remove Open VSX Registry workflows ([related issue](https://github.com/JohanZasada/recoiljs-snippets/issues/2))
+* Update logo
+
 ## :bookmark: [v0.1.2](https://github.com/JohanZasada/recoiljs-snippets/compare/v0.1.2...v0.1.1) (2020-10-05)
 
 ### Notable changes:

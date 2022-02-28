@@ -1,8 +1,8 @@
 {
     "name": "recoiljs-snippets",
     "displayName": "Recoiljs Snippets",
-    "description": "Recoiljs VS code snippets",
-    "version": "0.1.2",
+    "description": "Recoiljs JavaScript Visual Studio Code snippets",
+    "version": "0.2.0",
     "icon": "icons/logo.png",
     "engines": {
         "vscode": "^1.49.0"

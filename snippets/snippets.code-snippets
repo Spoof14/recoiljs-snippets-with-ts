@@ -75,5 +75,18 @@
             "import { ${1:} } from 'recoil';$0"
         ],
         "description": "recoiljs import"
-    }
+    },
+    "recoiljs sync atom": {
+        "prefix": "rclsyncatom",
+        "body": [
+            "const ${1:myNewAtom} = atom({",
+            "  key: '${1:myNewAtom}',",
+            "  default: ${2:value},",
+            "  effects: [",
+            "    syncEffect({ refine: ${2:}}),",
+            "  ],",
+            "});$0"
+        ],
+        "description": "sync atom"
+    },
 }

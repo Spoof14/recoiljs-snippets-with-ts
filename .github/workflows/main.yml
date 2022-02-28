@@ -12,6 +12,5 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-      - run: npx ovsx publish -p ${{ secrets.OPEN_VSX_TOKEN }}
       - run: npx vsce package
       - run: npx vsce publish -p ${{ secrets.AZURE_TOKEN }}
