@@ -1,5 +1,5 @@
 {
-    "name": "recoiljs-snippets",
+    "name": "recoiljs-snippets-with-ts",
     "displayName": "Recoiljs Snippets with TS",
     "description": "Recoiljs JavaScript Visual Studio Code snippets",
     "version": "0.2.1",
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "publisher": "recoiljs-snippets",
+    "publisher": "recoil-snippets-with-ts",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/Spoof14/recoiljs-snippets-with-ts/issues"
