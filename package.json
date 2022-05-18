@@ -1,8 +1,8 @@
 {
     "name": "recoiljs-snippets",
-    "displayName": "Recoiljs Snippets",
+    "displayName": "Recoiljs Snippets with TS",
     "description": "Recoiljs JavaScript Visual Studio Code snippets",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "icon": "icons/logo.png",
     "engines": {
         "vscode": "^1.49.0"
@@ -29,11 +29,11 @@
     "publisher": "recoiljs-snippets",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/JohanZasada/recoiljs-snippets/issues"
+        "url": "https://github.com/Spoof14/recoiljs-snippets-with-ts/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/JohanZasada/recoiljs-snippets.git"
+        "url": "https://github.com/Spoof14/recoiljs-snippets-with-ts.git"
     },
-    "homepage": "https://github.com/JohanZasada/recoiljs-snippets"
+    "homepage": "https://github.com/Spoof14/recoiljs-snippets-with-ts"
 }
